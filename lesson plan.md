@@ -85,7 +85,7 @@ By the end of the course, learners will be equipped to work on cutting-edge proj
 * Diffusers Library
 * DreamBooth
 * HuggingFace
-* LangChain
+* LangChain - https://docs.langchain.com/oss/python/deepagents/overview
 * OpenAI API
 
 
